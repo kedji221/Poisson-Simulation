@@ -10,7 +10,7 @@ st.set_page_config(page_title="Poissonverteilung – Analyse", layout="wide")
 st.title("Poissonverteilung – Interaktive Analyse & Visualisierung")
 
 tabs = st.tabs([
-    "📊 Interaktiv: PMF, CDF, CCDF",
+    "📊 Interaktiv",
     "🔁 Normalapproximation",
     "📈 Animation (Plotly)",
     "🎞️ Animation (Matplotlib-GIF)"
